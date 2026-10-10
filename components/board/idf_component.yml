@@ -1,0 +1,5 @@
+## board 组件依赖：LVGL 和乐鑫的触摸框架
+dependencies:
+  idf: ">=5.5"
+  lvgl/lvgl: "~9.4.0"
+  espressif/esp_lcd_touch: "~1.1.2"
